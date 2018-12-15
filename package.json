@@ -1,0 +1,17 @@
+{
+  "name": "urlshortner-starterkit",
+  "version": "1.0.0",
+  "description": "A url shortner service using lowdb, express, body-parser and shortid.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sean Anthony Loper",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "lowdb": "^1.0.0",
+    "shortid": "^2.2.14"
+  }
+}
